@@ -14,6 +14,6 @@ The website can be hosted on any web server or deployed easily using GitHub Page
 
 ## How to View
 If hosted with GitHub Pages, you can view the live website at:  
-`https://<your-username>.github.io/<repository-name>/`
+`https://aasolutions.netlify.app/`
 
 
